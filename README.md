@@ -8,10 +8,6 @@ Name inspired by Zek-c
 
 This can run as a bookmarklet.
 
-[The Subreddit](https://www.reddit.com/r/swordstuff/)
-
-[Discord Server](https://discord.gg/BMxe6D9CKv)
-
 ## How to use without bookmarklets
 
 1. Go to Netlify/Codepen/Render/Other 
